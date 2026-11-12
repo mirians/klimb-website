@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+  <title>Otto Ops, RevOps mentor, KLIMB 2D app style. Main: cobalt shades. Complement: tangerine.</title>
+  <!-- blue: skin #FFBC8F, cheek #FF8566, nose #FA5E2E, collar #D6E4FF, light #5B86EE, jacket #2F63E0, deep #142B6B, ink #0D1A40 | tangerine #FF8A2A -->
+
+  <!-- neck -->
+  <rect x="274" y="420" width="52" height="80" fill="#FFBC8F"/>
+
+  <!-- body: chore jacket with V neck, shirt and knit tie -->
+  <path d="M128 720 C128 584 196 486 300 486 C404 486 472 584 472 720 Z" fill="#2F63E0"/>
+  <path d="M258 486 L342 486 L300 604 Z" fill="#D6E4FF"/>
+  <path d="M290 500 L310 500 L307 518 L293 518 Z" fill="#142B6B"/>
+  <path d="M293 518 L307 518 L312 588 L300 604 L288 588 Z" fill="#142B6B"/>
+  <path d="M258 486 L300 504 L280 528 Z" fill="#FDFBFF"/>
+  <path d="M342 486 L300 504 L320 528 Z" fill="#FDFBFF"/>
+  <!-- jacket collar wings -->
+  <path d="M256 484 L220 494 L268 600 L300 608 Z" fill="#5B86EE"/>
+  <path d="M344 484 L380 494 L332 600 L300 608 Z" fill="#5B86EE"/>
+  <!-- buttons -->
+  <circle cx="300" cy="644" r="7" fill="#142B6B"/>
+  <circle cx="300" cy="692" r="7" fill="#142B6B"/>
+  <!-- chest pocket with pens and a ruler -->
+  <rect x="356" y="586" width="20" height="44" rx="4" fill="#FF8A2A"/>
+  <rect x="382" y="576" width="10" height="54" rx="5" fill="#142B6B"/>
+  <rect x="398" y="582" width="10" height="48" rx="5" fill="#FF8A2A"/>
+  <rect x="346" y="604" width="76" height="60" rx="10" fill="#5B86EE"/>
+  <!-- gear pin -->
+  <g transform="translate(356 540) scale(0.7)" fill="#FF8A2A">
+    <circle r="14"/>
+    <rect x="-4" y="-21" width="8" height="42" rx="2"/>
+    <rect x="-21" y="-4" width="42" height="8" rx="2"/>
+    <rect x="-4" y="-21" width="8" height="42" rx="2" transform="rotate(45)"/>
+    <rect x="-4" y="-21" width="8" height="42" rx="2" transform="rotate(-45)"/>
+    <circle r="6" fill="#5B86EE"/>
+  </g>
+
+
+  <!-- ears -->
+  <ellipse cx="198" cy="330" rx="18" ry="24" fill="#FFBC8F"/>
+  <ellipse cx="402" cy="330" rx="18" ry="24" fill="#FFBC8F"/>
+
+  <!-- head -->
+  <ellipse cx="300" cy="320" rx="104" ry="118" fill="#FFBC8F"/>
+
+  <!-- perfectly flat top haircut -->
+  <path d="M196 300 L196 178 C196 158 208 146 228 146 L372 146 C392 146 404 158 404 178 L404 300 L384 300 L384 246 C340 236 260 236 216 246 L216 300 Z" fill="#142B6B"/>
+  <!-- razor sharp side part -->
+  <path d="M340 150 L330 196" stroke="#FFBC8F" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- stern straight brows -->
+  <path d="M240 272 L282 278 M318 278 L360 272" stroke="#142B6B" stroke-width="9" stroke-linecap="round"/>
+
+  <!-- eyes, focused, top slightly lidded -->
+  <ellipse cx="262" cy="312" rx="15" ry="14" fill="#FDFBFF"/>
+  <ellipse cx="338" cy="312" rx="15" ry="14" fill="#FDFBFF"/>
+  <circle cx="262" cy="314" r="7.5" fill="#0D1A40"/>
+  <circle cx="338" cy="314" r="7.5" fill="#0D1A40"/>
+  <rect x="245" y="296" width="34" height="9" fill="#FFBC8F"/>
+  <rect x="321" y="296" width="34" height="9" fill="#FFBC8F"/>
+  <path d="M248 305 L276 305 M324 305 L352 305" stroke="#0D1A40" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- round tangerine glasses -->
+  <g fill="none" stroke="#FF8A2A" stroke-width="7">
+    <circle cx="262" cy="312" r="29"/>
+    <circle cx="338" cy="312" r="29"/>
+    <path d="M291 308 Q300 300 309 308"/>
+    <path d="M233 306 L206 300 M367 306 L394 300" stroke-linecap="round"/>
+  </g>
+
+  <!-- cheeks, nose, mouth -->
+  <circle cx="240" cy="364" r="16" fill="#FF8566"/>
+  <circle cx="360" cy="364" r="16" fill="#FF8566"/>
+  <circle cx="300" cy="350" r="14" fill="#FA5E2E"/>
+  <path d="M284 392 L316 392" stroke="#0D1A40" stroke-width="5" stroke-linecap="round"/>
+</svg>

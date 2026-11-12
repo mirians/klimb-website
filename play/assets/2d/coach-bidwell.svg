@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+<title>coach-bidwell, KLIMB 2D app style</title>
+<rect x="274" y="420" width="52" height="80" fill="#FFBC8F"/>
+<path d="M128 720 C128 584 196 486 300 486 C404 486 472 584 472 720 Z" fill="#CE5846"/>
+<path d="M244 476 C244 466 356 466 356 476 L360 520 C330 508 270 508 240 520 Z" fill="#E0887B"/>
+<path d="M300 512 L300 720" stroke="#E0887B" stroke-width="7"/>
+<rect x="292" y="530" width="16" height="24" rx="5" fill="#E0887B"/>
+<path d="M150 640 C170 580 200 546 236 530" fill="none" stroke="#E0887B" stroke-width="9"/>
+<path d="M168 660 C186 600 214 566 246 550" fill="none" stroke="#E0887B" stroke-width="9"/>
+<path d="M450 640 C430 580 400 546 364 530" fill="none" stroke="#E0887B" stroke-width="9"/>
+<path d="M432 660 C414 600 386 566 354 550" fill="none" stroke="#E0887B" stroke-width="9"/>
+<path d="M252 520 L300 604 L348 520" fill="none" stroke="#1FBFC6" stroke-width="7" stroke-linejoin="round"/>
+<rect x="282" y="598" width="40" height="30" rx="12" fill="#1FBFC6"/><rect x="314" y="604" width="22" height="14" rx="5" fill="#1FBFC6"/><circle cx="296" cy="613" r="6" fill="#8FE3E6"/>
+<ellipse cx="198" cy="330" rx="18" ry="24" fill="#FFBC8F"/><ellipse cx="402" cy="330" rx="18" ry="24" fill="#FFBC8F"/>
+<ellipse cx="300" cy="320" rx="104" ry="118" fill="#FFBC8F"/>
+<path d="M198 262 C200 214 240 196 300 196 C360 196 400 214 402 262 L404 284 C370 266 230 266 196 284 Z" fill="#1FBFC6"/>
+<path d="M200 270 C240 254 360 254 400 270" fill="none" stroke="#8FE3E6" stroke-width="5"/>
+<path d="M238 286 L284 300 M362 286 L316 300" stroke="#6B291F" stroke-width="11" stroke-linecap="round"/>
+<ellipse cx="262" cy="312" rx="15" ry="14" fill="#FDFCFF"/>
+<circle cx="262" cy="313" r="6.5" fill="#321511"/>
+<ellipse cx="338" cy="312" rx="15" ry="14" fill="#FDFCFF"/>
+<circle cx="338" cy="313" r="6.5" fill="#321511"/>
+<circle cx="232" cy="352" r="16" fill="#FF8566"/><circle cx="368" cy="352" r="16" fill="#FF8566"/>
+<circle cx="300" cy="344" r="14" fill="#FA5E2E"/>
+<path d="M300 392 L300 410 L284 432 C276 420 256 426 248 400 C262 380 290 374 300 382 C310 374 338 380 352 400 C344 426 324 420 316 432 Z" fill="#321511" opacity="0"/>
+<path d="M278 396 Q300 446 322 396 Z" fill="#321511"/><path d="M284 398 L316 398 L314 406 L286 406 Z" fill="#FDFCFF"/>
+<path d="M300 380 C288 370 256 370 238 396 C250 410 270 404 300 392 C330 404 350 410 362 396 C344 370 312 370 300 380 Z" fill="#6B291F"/>
+</svg>

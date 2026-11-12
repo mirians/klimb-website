@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+<title>the-guru, KLIMB 2D app style</title>
+<rect x="274" y="420" width="52" height="80" fill="#C8B4F8"/>
+<path d="M128 720 C128 584 196 486 300 486 C404 486 472 584 472 720 Z" fill="#A9CE46"/>
+<path d="M270 486 L330 486 L300 566 Z" fill="#C8B4F8"/>
+<path d="M262 482 L300 520 L282 540 Z M338 482 L300 520 L318 540 Z" fill="#F1FAD6"/>
+<path d="M128 720 C128 590 170 506 236 488 L270 560 L272 720 Z" fill="#C5E07B"/>
+<path d="M472 720 C472 590 430 506 364 488 L330 560 L328 720 Z" fill="#C5E07B"/>
+<path d="M150 600 L268 600" stroke="#A9CE46" stroke-width="4"/><path d="M138 660 L270 660" stroke="#A9CE46" stroke-width="4"/><path d="M332 600 L450 600" stroke="#A9CE46" stroke-width="4"/><path d="M330 660 L462 660" stroke="#A9CE46" stroke-width="4"/>
+<ellipse cx="262" cy="500" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/><ellipse cx="272" cy="516" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/><ellipse cx="284" cy="530" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/><ellipse cx="300" cy="536" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/><ellipse cx="316" cy="530" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/><ellipse cx="328" cy="516" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/><ellipse cx="338" cy="500" rx="10" ry="7" fill="none" stroke="#8A3FF0" stroke-width="5"/>
+<ellipse cx="198" cy="330" rx="18" ry="24" fill="#C8B4F8"/><ellipse cx="402" cy="330" rx="18" ry="24" fill="#C8B4F8"/>
+<ellipse cx="300" cy="320" rx="104" ry="118" fill="#C8B4F8"/>
+<circle cx="300" cy="150" r="38" fill="#5E6B1F"/>
+<path d="M198 290 C192 220 236 192 300 192 C364 192 408 220 402 290 L388 280 C380 248 350 236 300 236 C250 236 220 248 212 280 Z" fill="#5E6B1F"/>
+<path d="M200 330 C202 420 250 460 300 460 C350 460 398 420 400 330 L384 336 C376 372 350 384 330 380 C316 372 284 372 270 380 C250 384 224 372 216 336 Z" fill="#5E6B1F"/>
+<path d="M270 396 Q300 424 330 396 Z" fill="#2C3211"/><path d="M276 398 L324 398 L320 405 L280 405 Z" fill="#FDFCFF"/>
+<circle cx="300" cy="352" r="14" fill="#9572F0"/>
+<circle cx="230" cy="346" r="13" fill="#AE92F4"/><circle cx="370" cy="346" r="13" fill="#AE92F4"/>
+<path d="M226 296 L286 296 C290 330 274 344 254 344 C232 344 222 326 226 296 Z" fill="#8A3FF0"/>
+<path d="M314 296 L374 296 C378 326 368 344 346 344 C326 344 310 330 314 296 Z" fill="#8A3FF0"/>
+<path d="M230 304 L262 304 M318 304 L350 304" stroke="#C9A6FF" stroke-width="5" stroke-linecap="round"/>
+<path d="M286 300 L314 300 M226 298 L204 292 M374 298 L396 292" stroke="#8A3FF0" stroke-width="5" stroke-linecap="round"/>
+<path d="M232 280 Q256 270 280 280 M320 280 Q344 270 368 280" fill="none" stroke="#5E6B1F" stroke-width="7" stroke-linecap="round"/>
+</svg>

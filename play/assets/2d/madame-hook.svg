@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+  <title>Madame Hook v2, KLIMB 2D app style. Main: violet shades. Complement: marigold.</title>
+  <!-- violet: skin #C8B4F8, cheek #AE92F4, nose #9572F0, lapel #9B7AF3, blazer #7A4CE8, deep #3B1F86, ink #1E1240 | marigold #FFB627, tint #FFF1CF -->
+
+  <g transform="translate(0 44)">
+  <!-- hook ponytail, the signature shape -->
+  <path d="M300 200 L300 112 C300 46 396 46 396 112 L396 168" fill="none" stroke="#3B1F86" stroke-width="44" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- marigold hair cuff -->
+  <rect x="272" y="134" width="56" height="24" rx="12" fill="#FFB627"/>
+
+  </g>
+  <!-- body: blazer -->
+  <path d="M128 720 C128 586 196 528 300 528 C404 528 472 586 472 720 Z" fill="#7A4CE8"/>
+  <!-- turtleneck -->
+  <path d="M252 720 L252 470 C252 450 348 450 348 470 L348 720 Z" fill="#3B1F86"/>
+  <!-- pendant chain, draped from the shoulders under the lapels -->
+  <path d="M240 558 L300 592 L360 558" fill="none" stroke="#FFB627" stroke-width="4" stroke-linejoin="round"/>
+  <!-- peak lapels -->
+  <path d="M252 540 L196 566 L232 600 L206 626 L270 720 L278 720 L262 560 Z" fill="#9B7AF3"/>
+  <path d="M348 540 L404 566 L368 600 L394 626 L330 720 L322 720 L338 560 Z" fill="#9B7AF3"/>
+  <!-- hook brooch on lapel -->
+  <path d="M380 600 L380 628 C380 646 360 646 358 632" fill="none" stroke="#FFB627" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="380" cy="598" r="6" fill="#FFB627"/>
+
+  <!-- stopwatch pendant -->
+  <rect x="293" y="584" width="14" height="12" rx="4" fill="#FFB627"/>
+  <circle cx="300" cy="624" r="30" fill="#FFB627"/>
+  <circle cx="300" cy="624" r="21" fill="#FFF1CF"/>
+  <path d="M300 624 L300 610 M300 624 L311 630" stroke="#1E1240" stroke-width="4" stroke-linecap="round"/>
+
+  <!-- neck -->
+  <rect x="274" y="430" width="52" height="40" fill="#C8B4F8"/>
+  <path d="M252 470 C252 446 348 446 348 470 L348 484 C348 470 252 470 252 484 Z" fill="#3B1F86"/>
+
+  <g transform="translate(0 44)">
+  <!-- hair back panels (sleek bob) -->
+  <path d="M184 250 C184 186 236 160 300 160 C364 160 416 186 416 250 L416 392 C416 406 398 410 392 398 L208 398 C202 410 184 406 184 392 Z" fill="#3B1F86"/>
+
+  <!-- head -->
+  <ellipse cx="300" cy="310" rx="104" ry="118" fill="#C8B4F8"/>
+
+  <!-- blunt fringe and side curtains -->
+  <path d="M190 330 L190 256 C190 196 238 172 300 172 C362 172 410 196 410 256 L410 330 C410 342 392 342 392 330 L392 252 C360 244 240 244 208 252 L208 330 C208 342 190 342 190 330 Z" fill="#3B1F86"/>
+
+  <!-- marigold hook earrings -->
+  <!-- ears in front of the bob, like the 3D version -->
+  <ellipse cx="200" cy="330" rx="17" ry="21" fill="#C8B4F8"/>
+  <ellipse cx="400" cy="330" rx="17" ry="21" fill="#C8B4F8"/>
+  <circle cx="200" cy="350" r="7" fill="#FFB627"/>
+  <circle cx="400" cy="350" r="7" fill="#FFB627"/>
+
+  <!-- cheeks -->
+  <circle cx="246" cy="342" r="17" fill="#AE92F4"/>
+  <circle cx="354" cy="342" r="17" fill="#AE92F4"/>
+
+  <!-- bored, half lidded eyes -->
+  <ellipse cx="262" cy="304" rx="18" ry="16" fill="#FDFBFF"/>
+  <ellipse cx="338" cy="304" rx="18" ry="16" fill="#FDFBFF"/>
+  <circle cx="266" cy="309" r="7.5" fill="#1E1240"/>
+  <circle cx="342" cy="309" r="7.5" fill="#1E1240"/>
+  <!-- heavy lids over the top half -->
+  <rect x="242" y="285" width="40" height="13" fill="#C8B4F8"/>
+  <rect x="318" y="285" width="40" height="13" fill="#C8B4F8"/>
+  <path d="M243 298 L281 298 M319 298 L357 298" stroke="#1E1240" stroke-width="5" stroke-linecap="round"/>
+  <!-- one raised brow -->
+  <path d="M322 276 Q338 264 354 272" fill="none" stroke="#1E1240" stroke-width="5" stroke-linecap="round"/>
+
+  <!-- nose and mouth -->
+  <circle cx="300" cy="332" r="13" fill="#9572F0"/>
+  <path d="M286 372 Q300 366 314 374" fill="none" stroke="#1E1240" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

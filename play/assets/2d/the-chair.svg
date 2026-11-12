@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+<title>the-chair, KLIMB 2D app style</title>
+<rect x="274" y="420" width="52" height="80" fill="#C8B4F8"/>
+<path d="M104 720 C104 584 172 478 300 478 C428 478 496 584 496 720 Z" fill="#CE4661"/>
+<path d="M104 600 C110 540 150 506 200 498 L232 492 L180 560 Z" fill="#CE4661"/>
+<path d="M496 600 C490 540 450 506 400 498 L368 492 L420 560 Z" fill="#CE4661"/>
+<path d="M262 470 C262 456 338 456 338 470 L338 600 L262 600 Z" fill="#6B1F2E"/>
+<path d="M262 482 L222 496 L246 556 L228 572 L300 680 L262 520 Z" fill="#E07B8F"/>
+<path d="M338 482 L378 496 L354 556 L372 572 L300 680 L338 520 Z" fill="#E07B8F"/>
+<circle cx="368" cy="592" r="8" fill="#12A06E"/><circle cx="376" cy="600" r="8" fill="#12A06E"/><circle cx="368" cy="608" r="8" fill="#12A06E"/><circle cx="360" cy="600" r="8" fill="#12A06E"/>
+<ellipse cx="198" cy="330" rx="18" ry="24" fill="#C8B4F8"/><ellipse cx="402" cy="330" rx="18" ry="24" fill="#C8B4F8"/>
+<ellipse cx="300" cy="320" rx="104" ry="118" fill="#C8B4F8"/>
+<path d="M200 300 C192 228 230 192 300 190 C370 192 408 228 400 300 L388 292 C380 244 350 226 300 226 C250 226 220 244 212 292 Z" fill="#6B1F2E"/>
+<ellipse cx="300" cy="190" rx="66" ry="30" fill="#6B1F2E"/><rect x="246" y="140" width="108" height="52" rx="10" fill="#6B1F2E"/>
+<circle cx="256" cy="136" r="20" fill="#6B1F2E"/><circle cx="300" cy="116" r="24" fill="#6B1F2E"/><circle cx="344" cy="136" r="20" fill="#6B1F2E"/>
+<path d="M198 352 C190 366 190 380 198 386 C206 380 206 366 198 352 Z" fill="#12A06E"/><path d="M402 352 C394 366 394 380 402 386 C410 380 410 366 402 352 Z" fill="#12A06E"/>
+<path d="M240 284 L282 288" stroke="#6B1F2E" stroke-width="6" stroke-linecap="round"/>
+<path d="M318 282 Q340 268 362 280" fill="none" stroke="#6B1F2E" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="262" cy="306" rx="15" ry="14" fill="#FDFCFF"/>
+<circle cx="260" cy="305" r="7" fill="#321117"/>
+<rect x="245" y="290" width="34" height="13.8" fill="#C8B4F8"/>
+<path d="M248 303.8 L276 303.8" stroke="#321117" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="338" cy="306" rx="15" ry="14" fill="#FDFCFF"/>
+<circle cx="336" cy="305" r="7" fill="#321117"/>
+<rect x="321" y="290" width="34" height="13.8" fill="#C8B4F8"/>
+<path d="M324 303.8 L352 303.8" stroke="#321117" stroke-width="4" stroke-linecap="round"/>
+<circle cx="234" cy="370" r="16" fill="#AE92F4"/><circle cx="366" cy="370" r="16" fill="#AE92F4"/>
+<circle cx="300" cy="350" r="14" fill="#9572F0"/>
+<g fill="none" stroke="#321117" stroke-width="3"><circle cx="268" cy="338" r="20"/><circle cx="332" cy="338" r="20"/><path d="M288 336 Q300 330 312 336"/></g>
+<path d="M248 342 C226 400 236 450 244 486 M352 342 C374 400 364 450 356 486" fill="none" stroke="#12A06E" stroke-width="3"/>
+<path d="M286 396 L314 396" stroke="#321117" stroke-width="5" stroke-linecap="round"/>
+</svg>

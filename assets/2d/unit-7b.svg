@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720">
+<title>unit-7b, KLIMB 2D app style</title>
+<path d="M300 210 L300 150" stroke="#46C5CE" stroke-width="8" stroke-linecap="round"/>
+<rect x="282" y="196" width="36" height="18" rx="8" fill="#46C5CE"/>
+<circle cx="300" cy="138" r="20" fill="#FF3E9A"/>
+<rect x="262" y="410" width="76" height="90" rx="10" fill="#7BD9E0"/>
+<path d="M262 432 L338 432" stroke="#46C5CE" stroke-width="4"/><path d="M262 452 L338 452" stroke="#46C5CE" stroke-width="4"/><path d="M262 472 L338 472" stroke="#46C5CE" stroke-width="4"/>
+<path d="M118 720 C118 584 186 492 300 492 C414 492 482 584 482 720 Z" fill="#46C5CE"/>
+<rect x="232" y="540" width="136" height="104" rx="18" fill="#7BD9E0"/>
+<path d="M290 610 C262 590 262 566 278 566 C288 566 290 574 290 578 C290 574 292 566 302 566 C318 566 318 590 290 610 Z" fill="#FF3E9A"/>
+<circle cx="344" cy="566" r="6" fill="#1F666B"/><circle cx="344" cy="588" r="6" fill="#1F666B"/><circle cx="344" cy="610" r="6" fill="#1F666B"/>
+<rect x="168" y="290" width="40" height="70" rx="16" fill="#46C5CE"/><circle cx="182" cy="325" r="11" fill="#7BD9E0"/>
+<rect x="392" y="290" width="40" height="70" rx="16" fill="#46C5CE"/><circle cx="418" cy="325" r="11" fill="#7BD9E0"/>
+<rect x="192" y="206" width="216" height="210" rx="46" fill="#AFEFF4"/>
+<rect x="218" y="236" width="164" height="150" rx="30" fill="#1F636B"/>
+<path d="M244 278 L280 278" stroke="#7BD9E0" stroke-width="8" stroke-linecap="round"/>
+<path d="M320 272 Q338 260 356 270" fill="none" stroke="#7BD9E0" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="262" cy="312" rx="15" ry="14" fill="#FDFCFF"/>
+<circle cx="264" cy="309" r="7" fill="#113032"/>
+<rect x="245" y="296" width="34" height="10.4" fill="#1F636B"/>
+<path d="M248 306.4 L276 306.4" stroke="#113032" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="338" cy="312" rx="15" ry="14" fill="#FDFCFF"/>
+<circle cx="340" cy="309" r="7" fill="#113032"/>
+<rect x="321" y="296" width="34" height="10.4" fill="#1F636B"/>
+<path d="M324 306.4 L352 306.4" stroke="#113032" stroke-width="4" stroke-linecap="round"/>
+<circle cx="246" cy="344" r="9" fill="#FF3E9A"/><circle cx="354" cy="344" r="9" fill="#FF3E9A"/>
+<path d="M276 352 Q300 370 324 350" fill="none" stroke="#FF3E9A" stroke-width="6" stroke-linecap="round"/>
+</svg>
