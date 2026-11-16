@@ -286,16 +286,11 @@ td .ic{width:20px;height:20px}
 .note-box p{color:#5a4300}
 .contact{padding:90px 0}
 .contact-grid{display:grid;grid-template-columns:.75fr 1.25fr;gap:56px;align-items:center}
-.carla{margin:0;justify-self:center;width:100%;max-width:340px;background:#fff;color:var(--ink);border-radius:28px;overflow:hidden;box-shadow:var(--shadow);transform:rotate(-2deg)}
-.carla img{width:100%;aspect-ratio:537/600;object-fit:cover;object-position:50% 0;background:#FFF8DB}
-.carla figcaption{padding:16px 20px 20px}
-.carla small{color:var(--purple-d);font:700 12px var(--disp);letter-spacing:.08em;text-transform:uppercase}
-.carla b{display:block;font:700 19px var(--disp)}
-.carla q{display:block;margin-top:8px;color:var(--mu);font-size:15px;line-height:1.5}
+.contact-art{justify-self:center;width:100%;max-width:340px;aspect-ratio:4/5;object-fit:cover;object-position:50% 0;border-radius:28px;box-shadow:var(--shadow);transform:rotate(-2deg)}
 .contact-c p{color:#C9C2E6;max-width:620px;margin:14px 0 0}
 .contact-c .cta-row{margin-top:24px}
 .small-mail{font-size:14px;color:#C9C2E6;margin-top:18px}
-@media (max-width:900px){.contact-grid{grid-template-columns:1fr;gap:36px}.carla{max-width:300px}}
+@media (max-width:900px){.contact-grid{grid-template-columns:1fr;gap:36px}.contact-art{max-width:300px}}
 @media (max-width:760px){.ex-grid{grid-template-columns:1fr}}
 
 /* App tour (phone mockup) */
